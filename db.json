@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Eminem - Superman",
+      "thumnail": "https://i.ytimg.com/vi/A7uOUt-yUnA/mqdefault.jpg",
+      "url": "https://www.youtube.com/embed/K_8yRH2KPVo"
+    },
+    {
+      "id": "3",
+      "caption": "Bad   guy",
+      "thumnail": "https://data2.nssmag.com/images/galleries/19780/Billie-Eilish-1.jpeg",
+      "url": "https://www.youtube.com/embed/i41JIISQ0Gs"
+    },
+    {
+      "id": "4",
+      "caption": "We can kiss forever",
+      "thumnail": "https://i.ytimg.com/vi/3Soht3ISW-E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/xS3iRX7_Cxw"
+    },
+    {
+      "id": "5",
+      "caption": "Blinding lights",
+      "thumnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXbix8OHgT51TfsZDlRFGC_CgyB0ABFF5qg&usqp=CAU",
+      "url": "https://www.youtube.com/embed/iuJDhFRDx9M"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "race",
+      "allVideos": [
+        {
+          "id": 1,
+          "caption": "Eminem - Superman",
+          "thumnail": "https://i.ytimg.com/vi/A7uOUt-yUnA/mqdefault.jpg",
+          "url": "https://www.youtube.com/embed/K_8yRH2KPVo"
+        },
+        {
+          "id": "5",
+          "caption": "Blinding lights",
+          "thumnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXbix8OHgT51TfsZDlRFGC_CgyB0ABFF5qg&usqp=CAU",
+          "url": "https://www.youtube.com/embed/iuJDhFRDx9M"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "study",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "We can kiss forever",
+          "thumnail": "https://i.ytimg.com/vi/3Soht3ISW-E/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/xS3iRX7_Cxw"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardName": "Blinding lights",
+      "url": "https://www.youtube.com/embed/iuJDhFRDx9M",
+      "date": "10-11-23"
+    },
+    {
+      "id": "3315f8b8-5f15-4d3f-a166-7f1933b7953d",
+      "cardName": "Eminem - Superman",
+      "url": "https://www.youtube.com/embed/K_8yRH2KPVo",
+      "date": "2023-11-15T00:29:36.217Z"
+    }
+  ]
+}
